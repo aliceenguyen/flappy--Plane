@@ -1,4 +1,4 @@
-# 🐦 Flappy Bird Game (Python)
+# 🐦 Flappy Plane Game
 
 A 2D Flappy Bird-style arcade game built with **Python** and **Pygame**.  
 The project recreates the classic gameplay mechanics including gravity-based movement, obstacle generation, collision detection, scoring, and animated sprites.
@@ -52,12 +52,9 @@ pip install pygame
 python main.py
 ```
 ### 🎯 Controls
-``` markdown
-| Action | Control |
-|------|------|
-| Jump / Fly | Mouse Click |
-| Restart Game | Mouse Click after Game Over |
-```
+Jump / Fly : Mouse Click / space
+Restart Game : Mouse Click after Game Over 
+
 ### ⚙️ Core Components
 Sprites
 - Implements animated game objects including:
